@@ -1,0 +1,8 @@
+{
+  "name": "@weird/b",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "@weird/a": "./a"
+  }
+}
